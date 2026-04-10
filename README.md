@@ -1,87 +1,92 @@
 <h1 align="center">Hi 👋, I'm Jakir Hossen</h1>
-<h3 align="center">🚀 Web Developer | Shopify Store Designer | App Developer</h3>
+<h3 align="center"> Shopify Store Designer | Web Developer | App Developer (Learners) </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakir-hossen-4928&color=red" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jakir-hossen-4928&color=FF3E00&style=flat-square" alt="Profile views"/>
 </div>
-
-<p align="center">
-I build modern web apps, mobile apps, and high-converting Shopify stores.  
-Focused on real-world solutions, automation, and scalable digital products.
-</p>
-
----
-
-## 🚀 What I Do
-
-- 🛒 Shopify Store Design (Landing pages, product pages, conversion optimization)
-- 📱 React Native App Development (Expo-based apps)
-- 🌐 Full Stack Web Development (MERN stack)
-- ⚙️ Backend APIs & Automation (Node.js, Express, Appwrite)
-- 📊 Admin Dashboards & Data Systems
-
----
-
-## 🧠 Current Focus
-
-- 🔥 Advanced React Native Apps
-- 🛒 Shopify Store Optimization & UX
-- 🤖 Automation (n8n, APIs, workflows)
-- 💰 Building digital products & income streams
-
----
-
-## 💼 Projects
-
-👉 All projects:  
-🔗 https://github.com/jakir-hossen-4928?tab=repositories
-
-(⚠️ Add 3–5 BEST projects here later with screenshots. Without proof = weak profile.)
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FF4F4F?style=for-the-badge&logo=appwrite)
-
+  <h3>🚀 About Me</h3>
+  <p align="center">
+    🌱 I’m currently specializing in <b>React Native App Development</b><br/>
+    💻 Expert in crafting premium <b>Shopify Stores</b> and high-performance web apps.<br/>
+    🛠️ Passionate about modern backend solutions like <b>Supabase</b> and <b>Convex</b>.
+  </p>
 </div>
 
----
+<hr/>
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" width="40" height="40" alt="Frontend" /><br/>Frontend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite" width="40" height="40" alt="Backend" /><br/>BaaS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb" width="40" height="40" alt="Runtime" /><br/>Node/DB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" width="40" height="40" alt="Styling" /><br/>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github,vscode,figma" width="40" height="40" alt="Tools" /><br/>Tools
+    </td>
+  </tr>
+</table>
+
+**Current Tech Ecosystem:**
+- **App Dev:** React Native & Expo
+- **Cloud/Data:** Supabase, Firebase, Convex, Clerk (Auth)
+- **E-Commerce:** Shopify Store Design & Optimization
+
+<hr/>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://jakirhossen.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-jakirhossen.xyz-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://studio.sajuriya.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Studio-Sajuriya_Studio-6366F1?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Studio" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=6495908705399463745" target="_blank">
+    <img src="https://img.shields.io/badge/Play_Store-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Console" />
+  </a>
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jakir-hossen-36b26b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakir hossen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jakir.hossen.4928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakir.hossen.4928" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jakir_hossen_4928/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakir_hossen_4928" height="30" width="40" /></a>
+<a href="https://x.com/jakir_hossen_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakir_hossen_28" height="30" width="40" /></a>
+</p>
+
+<hr/>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakir-hossen-4928&theme=radical"/>
+  <a href="https://github.com/jakir-hossen-4928">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakir-hossen-4928&theme=radical" alt="GitHub Contribution"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jakir-hossen-4928&show_icons=true&count_private=true&theme=react" width="49%"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jakir-hossen-4928&layout=compact&theme=react" width="49%"/>
+  <img alt="Jakir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jakir-hossen-4928&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Jakir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jakir-hossen-4928&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakir-hossen-4928&custom_title=Jakir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%" />
+</p>
 
-## 📬 Contact Me
-
-- 📧 Email: mdjakirkhan4928@gmail.com  
-- 🌐 GitHub: https://github.com/jakir-hossen-4928  
-
----
-
-## 🌍 Connect With Me
+<br/>
 
 <p align="center">
-  <a href="https://www.facebook.com/jakir.hossen.4928"><img src="https://img.shields.io/badge/facebook-%232E87FB?style=for-the-badge&logo=facebook"/></a>
-  <a href="https://www.instagram.com/jakir_hossen_4928/"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://www.linkedin.com/in/jakir-hossen-36b26b244/"><img src="https://img.shields.io/badge/linkedin-%231E77B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/jakir_hossen_28"><img src="https://img.shields.io/badge/twitter-%2300acee?style=for-the-badge&logo=twitter"/></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
