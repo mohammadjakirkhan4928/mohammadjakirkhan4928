@@ -26,7 +26,7 @@
 ### 🌟 Featured Specializations
 - 🛍️ **Shopify Store Designer:** Crafting premium, high-conversion e-commerce experiences.
 - 🚀 **Landing Page Expert:** Designing high-performance marketing and portfolio pages.
-- 📱 **App Developer (Learner):** Building modern mobile applications with React Native.
+- 📱 **App Developer (Learner):** Building modern mobile applications with **React Native & Expo**.
 
 **🔥 Right now, I am deeply focused on Shopify Store Design & Optimization.**
 
@@ -34,39 +34,40 @@
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Frontend & Styling
+#### 💻 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,expo,typescript,js,html,css,tailwind,bootstrap" height="48" />
 </p>
 
-#### ☁️ Backend & Database (BaaS)
+#### ☁️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite,mongodb,nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite,mongodb,nodejs" height="48" />
 </p>
 
-#### 🔧 Tools & Ecosystems
+#### 🔧 Tools & CMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=shopify,figma,github,vscode,postman,vercel,netlify" height="45" />
+  <img src="https://skillicons.dev/icons?i=shopify,figma,github,vscode,postman,vercel,netlify" height="48" />
 </p>
 
 ---
 
 ### ⚡ Key Expertises
-- **Modern Web:** React, Next.js, and Type-Safe Development.
+- **Modern Web:** Clean, responsive, and high-performance development.
+- **App Development:** Cross-platform mobile apps using **Expo** and **React Native**.
 - **Backend Solutions:** Specialized in **Supabase**, **Firebase**, **Convex**, and **Clerk**.
-- **E-Commerce:** Professional Shopify Store Design and SEO optimization.
-- **Creative:** High-end Portfolios and Landing Page Design.
+- **E-Commerce:** Expert **Shopify Store Design** and Conversion Rate Optimization (CRO).
+- **Design:** Modern Portfolios and SaaS Landing Page Design.
 
 <hr/>
 
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jakir-hossen-36b26b244/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://www.facebook.com/jakir.hossen.4928" target="blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-<a href="https://www.instagram.com/jakir_hossen_4928/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://x.com/jakir_hossen_28" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="mailto:mdjakirkhan4928@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/jakir-hossen-36b26b244/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.facebook.com/jakir.hossen.4928" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.instagram.com/jakir_hossen_4928/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://x.com/jakir_hossen_28" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="mailto:mdjakirkhan4928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 <hr/>
